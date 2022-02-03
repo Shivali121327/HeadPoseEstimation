@@ -5,26 +5,6 @@ Real time human head pose estimation using TensorFlow and OpenCV.
 ![demo](doc/demo.gif)
 ![demo](doc/demo1.gif)
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
-### Prerequisites
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-v2.4-brightgreen)
-![OpenCV](https://img.shields.io/badge/OpenCV-v4.5-brightgreen)
-![Numpy](https://img.shields.io/badge/Numpy-v1.19-brightgreen)
-
-The code was tested on Ubuntu 20.04 and macOS Big Sur.
-
-### Installing
-
-This repository already provided a pre-trained model for facial landmarks detection. Just git clone then you are good to go.
-
-```bash
-# From your favorite development directory:
-git clone --depth=1 https://github.com/yinguobing/head-pose-estimation.git
-```
 
 ## Running
 
@@ -63,11 +43,6 @@ To retrain the facial landmark detection model, please refer to this series of [
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Authors
-Yin Guobing (尹国冰) - [yinguobing](https://yinguobing.com)
-
-![](doc/wechat_logo.png)
 
 ## Acknowledgments
 The pre-trained TensorFlow model file is trained with various public data sets which have their own licenses. Please refer to them before using this code.
