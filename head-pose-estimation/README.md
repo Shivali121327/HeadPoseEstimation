@@ -5,7 +5,6 @@
 Real time human head pose estimation using TensorFlow and OpenCV.
 
 ![demo](doc/demo.gif)
-![demo](doc/Screen Shot 2022-01-24 at 2.10.10 PM.png)
 
 
 ## Running
